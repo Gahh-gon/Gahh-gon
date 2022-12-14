@@ -1,4 +1,4 @@
-### Oi, me chamo Gabriel Gonçalves👋
+### Oi, me chamo Gabriel Gonçalves
 <hr/>
 
  <div align="center">
