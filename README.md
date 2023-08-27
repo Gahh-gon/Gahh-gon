@@ -1,5 +1,5 @@
 ### Oi, me chamo Gabriel Gonçalves Pereira
-## pronomes java/script
+
 <hr/>
 
  <div align="center">
