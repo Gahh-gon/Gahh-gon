@@ -4,7 +4,7 @@
 
  <div align="center">
   <a href="https://github.com/Gahh-gon">
-   <img src='https://github-readme-stats.vercel.app/api?Gahh-gon=anuraghazra&show_icons=true&theme=transparent)'/>
+   <a href='https://github-readme-stats.vercel.app/api?Gahh-gon=anuraghazra&show_icons=true&theme=transparent)'/>
 </div>
 
   </div>
