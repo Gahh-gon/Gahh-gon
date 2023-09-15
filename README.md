@@ -4,7 +4,8 @@
 
  <div align="center">
   <a href="https://github.com/Gahh-gon">
-   <a href='https://github-readme-stats.vercel.app/api?Gahh-gon=anuraghazra&show_icons=true&theme=transparent)'/>
+   <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gahh-gon&layout=compact&theme=shadow_green&hide_border=true&title_color=A7F5AA&icon_color=4CAF50&text_color=A7F5AA&bg_color=222428" />
+  </a>
 </div>
 
   </div>
